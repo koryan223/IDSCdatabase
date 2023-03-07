@@ -1,0 +1,26 @@
+﻿Variable Name,Definition
+Year,Year of earliest date of reported illness onset
+Month,Month of earliest date of reported illness onset
+State,"The state where the exposure occurred. For a single state of exposure, the state will be listed. For multiple states of exposure, ""Multistate"" will be listed."
+Primary Mode,Primary mode of transmission
+Etiology,Genus and species of identified etiology.  Multiple reported etiologies are separated by a semicolon.
+Serotype or Genotype,Serotype or genotype of identified etiology.  Multiple reported etiologies are separated by a semicolon.
+Etiology Status,Indicates whether or not the identified etiology is laboratory 'Confirmed' or 'Suspected'.   Multiple reported etiologies are separated by a semicolon.
+Setting,"Setting(s) where exposure occurred.  For foodborne outbreaks, this is the location where food was eaten."
+Illnesses,"Estimated total number of primary cases, including lab-confirmed and probable, based on the outbreak-specific definition."
+Hospitalizations,Number of primary cases who were hospitalized
+Info on Hospitalizations,Total number of primary cases for whom information on hospitalization is available
+Deaths,Number of primary cases who died
+Info on Deaths,Total number of primary cases for whom information on survival is available
+Food Vehicle,"For foodborne outbreaks only, the implicated food.  Multiple implicated foods are separated by a semicolon."
+Food Contaminated Ingredient,"For foodborne outbreaks only, indicates the contaminated ingredient.   Multiple contaminated ingredients are separated by a semicolon."
+IFSAC Category,"For foodborne outbreaks only, the IFSAC food category of the contaminated ingredient.  If contaminated ingredients fall into multiple IFSAC categories, ""Multiple"" will be listed."
+Water Exposure,"For waterborne outbreaks only, the implicated type of water exposure."
+Water Type,"For waterborne outbreaks only, a description of the venue (for treated and untreated recreational water), water system (for drinking water) or device/structure (for other/unknown; e.g., steam cleaner, cooling tower, ornamental fountain, etc.) that was the vehicle for waterborne exposure to microbial pathogens, chemicals, or toxins."
+Water Status,"For waterborne outbreaks only, indicates whether CDC has classified a waterborne disease outbreak report as excluded, cleaned, or closed out as a result of routine data cleaning and review activities."
+Animal Type,"For animal contact outbreaks only, the type of animal involved.  Multiple animal types are separated by a semicolon."
+Animal Type Specify,"For animal contact outbreaks only, the specific animal type.  Multiple animal types are separated by a semicolon."
+,
+,
+Note:,"Foods and ingredients listed for foodborne outbreaks include confirmed and suspected vehicles, if identified. CDC uses detailed NORS information in its analyses of the causes and risk factors of disease outbreaks. Additional NORS data should be requested for scientific studies or analyses. Please read the full disclosure before using NORS Dashboard data."
+Note:,"Reporting of outbreaks to CDC is voluntary, and outbreaks are likely underreported. Because of resource constraints and competing priorities, underreporting might be especially prevalent during the COVID-19 pandemic, which started in early 2020. In addition, given that outbreak data typically are verified during the year after the outbreak occurred, underreporting should be considered when interpreting data from 2019 and later years."
